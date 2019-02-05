@@ -1,0 +1,4 @@
+成功
+	{"code":0,"data":{"dateUpdate":"2019-01-31 11:31:51","remark":"充值最少金额","value":"1"},"msg":"success"}
+失败
+	{"code":404,"msg":"暂无数据"}

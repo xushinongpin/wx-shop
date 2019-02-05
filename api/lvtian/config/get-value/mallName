@@ -1,0 +1,4 @@
+成功
+	{"code":0,"data":{"remark":"商城名称","value":"天使童装"},"msg":"success"}
+失败
+	{"code":404,"msg":"暂无数据"}

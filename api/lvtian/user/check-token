@@ -1,0 +1,4 @@
+成功
+	{"code":0,"msg":"success"}
+失败
+	{"code":2000,"msg":"当前登录token无效，请重新登录"}

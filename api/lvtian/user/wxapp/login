@@ -1,0 +1,4 @@
+登陆失败
+	{"code":500,"data":{"errcode":40029,"errmsg":"invalid code, hints: [ req_id: 0cAAvNLnRa-KX9iea ]"},"msg":"can not get openid"}
+登陆成功
+	{"code":10000,"msg":"user has not exists"}

@@ -1,0 +1,4 @@
+成功
+	{"code":0,"data":{"base":{"avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/SPf3UdS3I2FQre66179HiahqibIwz8LFibX78IJQzCCFR5CY60uu0mQXGTzwQWPNPAD0xCo5zVYvBAicakaNPWIq2w/132","city":"Guangzhou","dateAdd":"2019-02-04 05:21:51","dateLogin":"2019-02-04 05:21:53","id":703674,"ipAdd":"222.127.34.60","ipLogin":"222.127.34.60","isIdcardCheck":false,"isSeller":false,"nick":"ilvtian","province":"Guangdong","source":0,"sourceStr":"小程序","status":0,"statusStr":"默认"}},"msg":"success"}
+失败
+	{"code":2000,"msg":"当前登录token无效，请重新登录"}
