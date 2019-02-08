@@ -1,0 +1,4 @@
+成功
+	{"code":0,"data":{"logisticsMap":{"245375":{"address":"被打断发个梵蒂冈","cityId":110101,"code":"131234","dateUpdate":"2019-02-08 05:13:44","districtId":0,"id":245375,"linkMan":"好孩子","mobile":"13123456789","provinceId":110000,"status":-1,"type":0}},"orderList":[{"amount":2.00,"amountLogistics":6.00,"amountReal":8.00,"dateAdd":"2019-02-08 05:13:44","dateClose":"2019-02-08 05:43:44","goodsNumber":1,"hasRefund":false,"id":245375,"isCanHx":false,"isNeedLogistics":true,"isPay":false,"isSuccessPingtuan":false,"orderNumber":"OD1902081534128541","remark":"","score":4,"shopId":3152,"status":0,"statusStr":"待支付","type":0,"uid":704783,"userId":12568}],"goodsMap":{"245375":[{"amount":2.00,"goodsId":116910,"goodsName":"商品名称:","id":278320,"number":1,"orderId":245375,"pic":"https://cdn.it120.cc/apifactory/2019/01/31/f3f63b473613db85b56f394602ba9903.jpg","property":"美食:美食2","score":4,"uid":704783,"userId":12568}]}},"msg":"success"}
+失败
+	{"code":404,"msg":"暂无数据"}

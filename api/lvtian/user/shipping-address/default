@@ -1,0 +1,4 @@
+失败
+	{"code":700,"msg":"暂无数据"}
+成功
+	{"code":0,"data":{"address":"被打断发个梵蒂冈","cityId":110101,"cityStr":"东城区","code":"131234","dateAdd":"2019-02-08 02:14:29","dateUpdate":"2019-02-08 02:14:29","id":49638,"isDefault":true,"linkMan":"好孩子","mobile":"13123456789","provinceId":110000,"provinceStr":"北京市","status":0,"statusStr":"正常","uid":704783,"userId":12568},"msg":"success"}

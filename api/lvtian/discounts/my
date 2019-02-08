@@ -1,0 +1,4 @@
+失败
+	{"code":700,"msg":"暂无数据"}
+成功
+	{"code":0,"data":[{"dateAdd":"2019-02-08 02:33:05","dateEnd":"2019-02-28 00:00:00","dateStart":"2019-02-08 02:33:05","id":89006,"money":0.11,"moneyHreshold":0.00,"name":"优惠券名称:","pid":4208,"pwd":"","status":0,"statusStr":"正常","type":""}],"msg":"success"}

@@ -2,3 +2,5 @@
 	{"code":500,"data":{"errcode":40029,"errmsg":"invalid code, hints: [ req_id: 0cAAvNLnRa-KX9iea ]"},"msg":"can not get openid"}
 登陆成功
 	{"code":10000,"msg":"user has not exists"}
+
+	{"code":0,"data":{"uid":704783,"openid":"o6QwF5vCurhcnje0xfhMQodGImL4","token":"392ffdd9-dffd-4e13-a3ce-82717cbbb940"},"msg":"success"}

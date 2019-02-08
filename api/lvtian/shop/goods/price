@@ -1,0 +1,4 @@
+成功
+	{"code":0,"data":{"goodsId":116910,"id":951407,"originalPrice":1.00,"pingtuanPrice":3.00,"price":2.00,"propertyChildIds":"10733:41992,","score":4,"stores":5,"userId":12568},"msg":"success"}
+失败
+	{"code":404,"msg":"暂无数据"}

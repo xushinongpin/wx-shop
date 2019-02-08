@@ -1,1 +1,5 @@
-{"code":2000,"msg":"当前登录token无效，请重新登录"}
+失败
+	{"code":2000,"msg":"当前登录token无效，请重新登录"}
+	{"code":20003,"msg":"每人领取数量限额"}
+成功
+	{"code":0,"data":{"dateEnd":"2019-02-28 00:00:00","dateStart":"2019-02-08 02:29:03","id":89005,"money":1005901.35,"moneyHreshold":0.00,"name":"优惠券名称:","pid":4208,"pwd":"","type":""},"msg":"success"}
